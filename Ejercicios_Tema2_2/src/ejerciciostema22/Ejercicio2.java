@@ -10,7 +10,7 @@ public class Ejercicio2 {
 		//Creamos el scanner y lo nombramos "sc"
 		Scanner sc = new Scanner(System.in);
 		//Pedimos al usuario que introduzca una nota entre 1 y 7
-		System.out.print("Introduzca la nota entre 1 y 7, solo valores enteros: ");
+		System.out.print("Introduzca un día entre 1 y 7, solo valores enteros: ");
 		//Capturamos lo que ha introducido el usuario y lo guardamos en la variable "dia"
 		dia = sc.nextInt();
 		
